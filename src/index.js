@@ -16,6 +16,8 @@ const actors = {
 
 export default ({transforms}) => {
   return {
+    name: 'transform-code',
+
     transform (code, id) {
       if (transforms[id] == null) {
         return null
