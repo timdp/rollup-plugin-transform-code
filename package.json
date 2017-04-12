@@ -1,6 +1,6 @@
 {
   "name": "rollup-plugin-transform-code",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Performs simple code transformations.",
   "main": "index.js",
   "jsnext:main": "src/index.js",
