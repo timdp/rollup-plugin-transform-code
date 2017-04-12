@@ -1,6 +1,10 @@
 import MagicString from 'magic-string'
 
 const actors = {
+  prepend (magicString, {value}) {
+    magicString.prepend(value)
+  },
+
   append (magicString, {value}) {
     magicString.append(value)
   },
