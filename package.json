@@ -43,7 +43,7 @@
     "in-publish": "^2.0.0",
     "isparta": "^4.0.0",
     "run-sequence": "^1.2.2",
-    "sinon": "^2.1.0",
+    "sinon": "^7.2.3",
     "sinon-chai": "^2.9.0",
     "yargs": "^7.0.2"
   },
