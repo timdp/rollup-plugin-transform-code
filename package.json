@@ -45,7 +45,7 @@
     "run-sequence": "^1.2.2",
     "sinon": "^2.1.0",
     "sinon-chai": "^2.9.0",
-    "yargs": "^7.0.2"
+    "yargs": "^13.1.0"
   },
   "standard": {
     "globals": [
