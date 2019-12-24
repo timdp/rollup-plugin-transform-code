@@ -44,7 +44,7 @@
     "isparta": "^4.0.0",
     "run-sequence": "^1.2.2",
     "sinon": "^2.1.0",
-    "sinon-chai": "^2.9.0",
+    "sinon-chai": "^3.4.0",
     "yargs": "^7.0.2"
   },
   "standard": {
